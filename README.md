@@ -3,7 +3,10 @@ This repository contains solutions for BBM203, the Data Structures course at Hac
 
 Repository Contents
 Assignments: Solutions to programming assignments
+
 Sample I/O Files: Provided input-output examples
+
 Instruction PDFs: Problem statements and guidelines
+
 Usage
 All C++ source files, assignment PDFs, and sample I/O files are located in the main repository directory. Each assignment includes the necessary implementation files along with input-output samples for testing.
