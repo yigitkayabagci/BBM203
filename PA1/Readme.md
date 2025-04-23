@@ -7,7 +7,7 @@ This C++ project enhances images and secures hidden data for defense application
 ### Noise Reduction
 Mean & Gaussian Filters remove unwanted noise while preserving image details.
 
-[gaussian_filtered_puppy_41x41_2](https://github.com/user-attachments/assets/5ea3e054-a9d5-45d8-aee3-05757e857fea)![puppy](https://github.com/user-attachments/assets/28734158-7b80-4967-956f-17ef6e53fc66)
+![gaussian_filtered_puppy_41x41_2](https://github.com/user-attachments/assets/5ea3e054-a9d5-45d8-aee3-05757e857fea)![puppy](https://github.com/user-attachments/assets/28734158-7b80-4967-956f-17ef6e53fc66)
 
 [Mean Filter]
 ![creep](https://github.com/user-attachments/assets/78451b7e-cf1a-47f8-a987-421ca7e4fbe3)
