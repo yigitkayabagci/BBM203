@@ -1,2 +1,11 @@
 Image Processing for Defense Applications (C++)
 This C++ project enhances images and secures hidden data for defense applications. It includes noise reduction, sharpening, and steganography techniques.
+Features
+Noise Reduction
+Mean & Gaussian Filters remove unwanted noise while preserving image details.
+Show Image
+Image Sharpening
+Unsharp Masking enhances clarity and highlights critical features.
+Show Image
+Hidden Message Embedding (LSB Steganography)
+Securely embed and extract messages within images.
