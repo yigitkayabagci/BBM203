@@ -7,9 +7,9 @@ This C++ project enhances images and secures hidden data for defense application
 ### Noise Reduction
 Mean & Gaussian Filters remove unwanted noise while preserving image details.
 
-![Noise Reduction Example]![gaussian_filtered_puppy_41x41_2](https://github.com/user-attachments/assets/5ea3e054-a9d5-45d8-aee3-05757e857fea)![puppy](https://github.com/user-attachments/assets/28734158-7b80-4967-956f-17ef6e53fc66)
+[gaussian_filtered_puppy_41x41_2](https://github.com/user-attachments/assets/5ea3e054-a9d5-45d8-aee3-05757e857fea)![puppy](https://github.com/user-attachments/assets/28734158-7b80-4967-956f-17ef6e53fc66)
 
-![Mean Filter]!
+[Mean Filter]
 ![creep](https://github.com/user-attachments/assets/78451b7e-cf1a-47f8-a987-421ca7e4fbe3)
 
 ![mean_filtered_creep_11x11](https://github.com/user-attachments/assets/332fe971-644a-451b-a271-f427188a6945)
@@ -25,4 +25,4 @@ Unsharp Masking enhances clarity and highlights critical features.
 ### Hidden Message Embedding (LSB Steganography)
 Securely embed and extract messages within images.
 
-After:![puppy_with_secret_message_embedded](https://github.com/user-attachments/assets/21a0e6af-da2d-4be0-ae42-1d4e0908a802)
+![puppy_with_secret_message_embedded](https://github.com/user-attachments/assets/21a0e6af-da2d-4be0-ae42-1d4e0908a802)
